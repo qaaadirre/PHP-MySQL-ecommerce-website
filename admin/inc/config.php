@@ -6,16 +6,16 @@ ini_set('error_reporting', E_ALL);
 date_default_timezone_set('Asia/Dubai');
 
 // Host Name
-$dbhost = 'localhost';
+$dbhost = 'sql12.freesqldatabase.com';
 
 // Database Name
-$dbname = 'fashiony_ogs';
+$dbname = 'sql12743058';
 
 // Database Username
-$dbuser = 'root';
+$dbuser = 'sql12743058';
 
 // Database Password
-$dbpass = '';
+$dbpass = '3Yhingx9Sc';
 
 // Defining base url
 define("BASE_URL", "http://fashionys.com/");
